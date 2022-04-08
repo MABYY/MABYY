@@ -8,7 +8,7 @@
 - 🌱 I’m currently working on my personal website
 - 👯 I’m looking to collaborate on projects related to finance in general
 - 💬 Ask me about watersports
-- 📫 How to reach me: Linkedin :) https://www.linkedin.com/in/maria-negri/
+- 📫 How to reach me: https://www.linkedin.com/in/maria-negri/
 
 
 
