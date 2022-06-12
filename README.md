@@ -5,7 +5,7 @@
 ## Glad to see you here!
 
 - 🔭 I’m always learning something fun
-- 🌱 I’m currently working on my personal website : https://portfoliodata.herokuapp.com/. 
+- 🌱 I’m currently working on my personal website : https://portfoliodata.herokuapp.com/
 - 👯 I’m looking to collaborate on projects related to finance in general
 - 💬 Ask me about watersports
 - 📫 How to reach me: https://www.linkedin.com/in/maria-negri/
