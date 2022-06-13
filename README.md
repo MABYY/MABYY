@@ -6,8 +6,10 @@
 
 - 🔭 I’m always learning something fun
 - 🌱 I’m currently working on my personal website : 
-        FE: https://fetchdata2-bg3q.vercel.app/
-        BE: https://portfoliodata.herokuapp.com/
+
+       -  FE: https://fetchdata2-bg3q.vercel.app/
+       -  BE: https://portfoliodata.herokuapp.com/
+       
 - 👯 I’m looking to collaborate on projects related to finance in general
 - 💬 Ask me about watersports
 - 📫 How to reach me: https://www.linkedin.com/in/maria-negri/
