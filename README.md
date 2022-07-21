@@ -9,7 +9,9 @@
 
        -  FE:   https://fetchdata2-bg3q.vercel.app/
 
-       -  BE:   https://portfoliodata.herokuapp.com/
+       -  BE NodeJS:   https://portfoliodata.herokuapp.com/
+       
+       -  BE Python : https://portdatapy.herokuapp.com/
        
 - 👯 I’m looking to collaborate on projects related to finance in general
 - 💬 Ask me about watersports
