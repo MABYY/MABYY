@@ -4,7 +4,7 @@
 
 ## Glad to see you here!
 
-- 🔭 I’m always learning something fun
+- 🔭 I’m always learning something fun, like Java :)
 - 🌱 I’m currently working on my personal website : 
 
        -  FE:   https://fetchdata2-bg3q.vercel.app/
