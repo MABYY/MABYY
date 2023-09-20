@@ -27,6 +27,8 @@
 - Javascript
 - Node.js
 - SQL
+- Angular
+- React
 
 <!--
 
