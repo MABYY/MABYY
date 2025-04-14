@@ -4,7 +4,7 @@
 
 ## Glad to see you here!
 
-- 🔭 I’m always learning something fun, like Java :)
+- 🔭 I’m always learning new technologies :)
   
 - 🌱 I’m currently working on my porfolio tracker pinned below
   
