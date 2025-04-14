@@ -5,7 +5,10 @@
 ## Glad to see you here!
 
 - 🔭 I’m always learning something fun, like Java :)
-- 🌱 I’m currently working on my personal website : 
+  
+- 🌱 I’m currently working on my porfolio tracker pinned below
+  
+- Former projects to track the mutual fund industry
 
        -  FE:   https://fetchdata2-bg3q.vercel.app/
 
@@ -24,6 +27,7 @@
 
 ## Languages  	:robot:
 - Python  :snake:
+- Java ☕
 - Javascript
 - Node.js
 - SQL
